@@ -13,12 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma
-  if puts "I LOVE YOU GRANDMA"
-    return "I LOVE YOU TOO PUMPKIN"
-  elsif puts "Hi, Nana, how are you?" || "Hi!"
-    return "HUH?! SPEAK UP, SONNY!"
-  else puts "WHAT DID YOU EAT TODAY?" || "WHAT?"
-    return "NO, NOT SINCE 1938!"
-  end
-end
-    
+  if 
